@@ -3,3 +3,6 @@ Welcome to my GitHub repository! I'm passionate about robotics engineering and t
 
 # About Me
 I'm an aspiring robotics engineer with a keen interest in designing, building, and programming robots that can solve real-world problems. My projects range from simple experiments to complex systems, all reflecting my learning and growth in robotics.
+# Skills and Technologies
+- **Robotics:** Robot design, simulation, and control.
+- **CAD:** Fusion 360 for designing and prototyping.
